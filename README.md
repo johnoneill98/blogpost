@@ -1,10 +1,21 @@
-## Welcome to GitHub Pages
+## Azure Sentinel 
+In the world of technology, cyber-security is the #1 priority for any company. And with the almost infinite amount of threats any company can face it seems almost impossible to do. In addition to that they are many companies that a seeling partial solutions to it but it gets cumbersome to make sure which version of what works with each other. It woulds be easier if all  of the solutions were in one service. Microsoft heard that call can presented with with Azure Sentinel.    
 
-You can use the [editor on GitHub](https://github.com/johnoneill98/blogspot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Azure Sentinel is a SIEM and a SOAR solution that microsoft has created. Delivers Security and threat intelligence and proving a single solution for alert detection, threat visibility, proactive hunting and threat response
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Workbooks 
 
-### Markdown
+### Data connectors 
+Sentinel comes with multiple built in connection for Microsoft solutions for example, you can connect Office 365 for real time integration 
+### Analytics
+Analytics are rules that can help minimize that amount of threats that have to be reviewed and investigated. You can use Analytics to create Incidents. 
+
+#### Incidents 
+Incidents are a group of incidents that are 
+### Automation
+#### Logic Apps   
+### Hunting 
+### Threat Intelligence 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
