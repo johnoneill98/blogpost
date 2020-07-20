@@ -8,7 +8,7 @@ Sentinel comes with multiple built in connections for Microsoft solutions. For e
 
 ## Workbooks 
 Once you connect you resources to Azure Sentinel you can monitor the data. You can use the built in Workbooks that Azure provides or you can make custom workbooks. You can build dashboards from the workbooks to visualize the data
-![](images/workbooks.png)
+![workboook](images/workbooks.png)
 ## Analytics
 Analytics are rules that can help minimize that amount of threats that have to be reviewed and investigated. You can use Analytics to create Incidents. Analytics ranks severity from high to medium to low to informational. Azure Sentinel will automatically rank the rules them from most sever to the least severe. Below is an example of what Analytics can look in aby companies workspace
 ![](images/analytics.png)
