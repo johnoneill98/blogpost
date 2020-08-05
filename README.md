@@ -1,4 +1,4 @@
-# Azure Sentinel and why it is Important to You 
+# Azure Sentinel and Why it is Important to You 
 In the world of technology, cybersecurity is the #1 priority for any company. And with the almost infinite amount of threats companies can face, protection for your company seems almost impossible to do. In addition to that, many companies only sell partial cybersecurity solutions, but it gets cumbersome to make sure which version of the software is compatible with other types of programs. Companies would be at ease if solutions were in one service. Microsoft heard that call and answered definitively with Azure Sentinel.
 
 Azure Sentinel is both a SIEM (Security Information and Event Management) and a SOAR (Security Orchestration, Automation, and Response) solution that Microsoft created in 2019. Azure Sentinel delivers security and provides a single solution for alert detection, threat visibility, proactive hunting, and threat response.
