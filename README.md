@@ -55,8 +55,6 @@ In conclusion, Azure Sentinel can play an instrumental role in ensuring companie
 
 What I did this summer was instrumental in my development to become a computer science professional. Before this internship, I only studied basic concepts in cloud computing. But now I have hands-on experience working with cloud computing which will help me in my professional career as cloud computing becomes more of a common practice for every company. Another thing I learn is not being afraid to fail. Asking questions and trying is essential to be a good worker in any profession.This summer, I had learned about Microsoft Azure and it has made a better computer scientist. The challenges of working with a cloud platform help made me improve with my problem solving and decision-making skills. I am happy to know that I will bring these skills I learned from EITR Technologies to my future employer.  
 
-<<<<<<< HEAD
-John O'Neill is the Cloud Security Intern for EITR Technologies for the summer of 2020. John is a Computer Science Major with a track in Cyber Operations and a minor in Mathematics at Towson University. John is expected to graduate in May 2021. When not coding, you can see John performing with the Towson University Marching Band or seeing him hanging out with his friends and family.  
-=======
 This summer, I had learned about Microsoft Azure and it has made a better computer scientist. The challenges of working with a cloud platform help made me improve with my problem solving and decision-making skills. I am happy to know that I will bring these skills I learned from EITR Technologies.  
->>>>>>> d6dc686d4e2296588f3d4916a9f10d0a577bcc33
+
+John O'Neill is the Cloud Security Intern for EITR Technologies for the summer of 2020. John is a Computer Science Major with a track in Cyber Operations and a minor in Mathematics at Towson University. John is expected to graduate in May 2021. When not coding, you can see John performing with the Towson University Marching Band or seeing him hanging out with his friends and family.  
